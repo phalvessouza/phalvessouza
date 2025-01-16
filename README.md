@@ -22,8 +22,8 @@ Eu sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos des
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 ## Projetos em destaque
-- [Projeto 1](https://github.com/seu-usuario/projeto1)
-- [Projeto 2](https://github.com/seu-usuario/projeto2)
+- [Projeto 1](https://oreiatv.netlify.app/)
+- [Projeto 2](https://perfeitogesso.netlify.app/)
 
 ## Estatísticas GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phalvessouza&show_icons=true)
