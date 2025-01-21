@@ -6,7 +6,7 @@
 ## Sobre mim
 Eu sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios.
 
-- 🌱 Atualmente estou aprendendo **desenvolver back-end com NestJs**
+- 🌱 Atualmente estou aprendendo **desenvolver back-end com Express**
 - 👯 Estou procurando colaborar em **projetos de código aberto**
 
 ## Conecte-se comigo:
