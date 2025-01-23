@@ -6,7 +6,7 @@
 ## Sobre mim
 Eu sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios.
 
-- 🌱 Atualmente estou aprendendo **desenvolver back-end com Express**
+- 🌱 Atualmente estou aprendendo **desenvolver back-end**
 - 👯 Estou procurando colaborar em **projetos de código aberto**
 
 ## Conecte-se comigo:
@@ -17,6 +17,8 @@ Eu sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos des
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 ## Projetos em destaque
 - [Projeto](https://perfeitogesso.netlify.app/)
