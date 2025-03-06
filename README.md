@@ -4,7 +4,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/phalvessouza?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 ## Sobre mim
-Eu sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios.
+Eu sou um estudante apaixonado por tecnologia e sempre em busca de novos desafios.
 
 - 🌱 Atualmente estou aprendendo **desenvolver back-end**
 - 👯 Estou procurando colaborar em **projetos de código aberto**
